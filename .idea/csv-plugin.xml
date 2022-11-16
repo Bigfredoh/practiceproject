@@ -10,13 +10,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\imdb_df\imdb_df.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\imdb_df\imdb_df\spiders\imdb_df.csv">
           <value>
             <Attribute>
@@ -32,6 +25,20 @@
           </value>
         </entry>
         <entry key="\nl\nl\spiders\nl.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\nl\nl\spiders\nl_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\nl\nl\spiders\nl_2.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

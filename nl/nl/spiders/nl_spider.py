@@ -4,7 +4,7 @@ from scrapy import Request
 # Building of scrapy framework for parsing the website
 class TotalspiderSpider(scrapy.Spider):
     name = 'nairaland'
-    current_page = 1
+    current_page = 4554
     start_urls = ['https://www.nairaland.com/news/']
 # Extracting links from all the pages
     def parse(self, response):
